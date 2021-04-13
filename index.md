@@ -87,7 +87,7 @@ These are all free, and require no signup or login:
   <https://docs.scipy.org/doc/scipy/reference/tutorial>
 
 * Matplotlib is the most popular plotting library:
-  <http://matplotlib.org/users/pyplot_tutorial.html>
+  <https://matplotlib.org/stable/tutorials/index.html>
 
 * Pandas is another useful Python library for data analysis, built on top of numpy, that we'll
   introduce in the course. It has several tutorials:
