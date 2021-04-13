@@ -91,7 +91,7 @@ These are all free, and require no signup or login:
 
 * Pandas is another useful Python library for data analysis, built on top of numpy, that we'll
   introduce in the course. It has several tutorials:
-  <http://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html>
+  <https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/>
 
 # Cheat sheets
 
