@@ -1,6 +1,6 @@
 ### Project goal:
 
-Analyze (or reanalyze) some of your own real data, so that it's immediately useful to you. If you don't have any of your own data, try and find some dataset that interests you. Failing that, I can find a dataset for you to work on.
+Analyze (or reanalyze) some of your own real data, so that it's immediately useful to you. If you don't have any of your own data, try and find some dataset that interests you. Failing that, I can find a dataset for you to work on, most likely something from https://www.statsmodels.org/devel/datasets
 
 ### Required:
 
@@ -14,7 +14,7 @@ Analyze (or reanalyze) some of your own real data, so that it's immediately usef
 
 ### Plus do at least 6 of the following:
 
-- use an if-elif-else clause
+- use an if-else clause
 - use a for loop
 - use a while loop
 - write at least one function, include a docstring
@@ -24,6 +24,7 @@ Analyze (or reanalyze) some of your own real data, so that it's immediately usef
 - do a statistical test - show that the test assumptions hold for your data
 - manipulate and analyze data in a pandas series or dataframe
 - use an image processing algorithm
+- use a dimension reduction algorithm
 - use a clustering algorithm
 - use some other non-trivial algorithm: e.g. regression, curve fitting, signal analysis...
 - version control your code using git: create a local repository and make at least 5 commits while developing your code
@@ -35,8 +36,8 @@ The class project can be submitted as either:
 1. a python script in a `.py` file, with figures saved separately as `.png` or `.pdf` files, and source data included as well
 2. a jupyter notebook (`.ipynb`) with embedded figures, optionally submit source data as well if possible
 
-Submit directly to Martin, either on a USB stick or via email, or post the files somewhere and send Martin the link.
+Submit directly to Martin via email, or post the files somewhere and send Martin the link.
 
 ### Due date:
 
-July xx, 2021
+July 31, 2021
